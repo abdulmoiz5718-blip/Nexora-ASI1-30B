@@ -1,0 +1,57 @@
+{
+  "filename": "Nexora-ASI1-30B.gguf",
+  "size": 18556685856,
+  "sha256": "58574f2e94b99fb9e4391408b57e5aeaaaec10f6384e9a699fc2cb43a5c8eabf",
+  "parts": [
+    {
+      "name": "Nexora-ASI1-30B.gguf.part01",
+      "size": 1900000000,
+      "sha256": "5a33b9aa5354ec0947307dd31ff9fc5b333d3bc6eeeaa3f76605ac9d08acc1b5"
+    },
+    {
+      "name": "Nexora-ASI1-30B.gguf.part02",
+      "size": 1900000000,
+      "sha256": "ef924ef60cf054ce39fb4c080343c50408570ee9e9770fdbb675b86935b3592d"
+    },
+    {
+      "name": "Nexora-ASI1-30B.gguf.part03",
+      "size": 1900000000,
+      "sha256": "377f20b3d37ba092502774777f34a546b243be89f8b21f1551cd4f7b79a1cbc5"
+    },
+    {
+      "name": "Nexora-ASI1-30B.gguf.part04",
+      "size": 1900000000,
+      "sha256": "6d262739d61509d852d8997efeaf1186ba95dbeb1b5d1d5f4050a6615fa10ddd"
+    },
+    {
+      "name": "Nexora-ASI1-30B.gguf.part05",
+      "size": 1900000000,
+      "sha256": "1e08b20bd1dc6d7d4c99b3baa4f87824c0e5792364db86b451e317bbfd28e6ec"
+    },
+    {
+      "name": "Nexora-ASI1-30B.gguf.part06",
+      "size": 1900000000,
+      "sha256": "6a23971a64d41fab9d6a7759d681744ef59270a914f3d20c40b3ba809ffe8f05"
+    },
+    {
+      "name": "Nexora-ASI1-30B.gguf.part07",
+      "size": 1900000000,
+      "sha256": "4073928c29425098703e73dc3f0d2dfa2069fc3809138cfe1197246c67fa5551"
+    },
+    {
+      "name": "Nexora-ASI1-30B.gguf.part08",
+      "size": 1900000000,
+      "sha256": "eaa0b3d1057d38d67ec516967d262bce8ed2aca2f606b409c8dc2f7b878a23c3"
+    },
+    {
+      "name": "Nexora-ASI1-30B.gguf.part09",
+      "size": 1900000000,
+      "sha256": "ecc577dd6c76a448a204d0e48e65c830457691e126706a3171c5200e47b53529"
+    },
+    {
+      "name": "Nexora-ASI1-30B.gguf.part10",
+      "size": 1456685856,
+      "sha256": "553801e700838ab78e6edb0f79fd0600a65d8856065e9f287a863d35416f903d"
+    }
+  ]
+}
