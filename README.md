@@ -4,6 +4,7 @@
 **A private, local AI assistant for Windows.** Nexora ASI1-30B starts the model, launches its web chat, and keeps inference on the user's computer.
 
 ## Download and run
+*Find the complete model in assests folder, it contains all the dependencies*
 
 Download every part attached to the latest GitHub Release, extract the complete `Nexora-ASI1-30B` folder, and double-click `Nexora-ASI1-30B.exe`. Keep the `model` and `runtime` folders beside the executable. The model weights are included in the release package; no separate model download is needed.
 
